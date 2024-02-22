@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    
+    margin-left: 9rem;
+    
+}
+#taskbar{
+    display: flex;
+    gap: 10rem;
+    margin-top: 2rem;
+}
+.searchlogo{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    align-content: space-around;
+}
+.heading{
+    display: flex;
+    gap: 2rem;
+}
+.heading2{
+    display: flex;
+    gap: 2rem;
+}
+#sales{
+    color: blueviolet;
+    border: 2px solid violet;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    background-color: #fff;
+}
+.free{
+    background-color: blueviolet;
+    color: #fff;
+    font-size: large;
+    height: 50px;
+    width: 200px;
+}
+.content{
+    margin-left: 8rem;
+    margin-top: 4rem;
+}
+.content2{
+    margin-left: 8rem ;
+    font-size: xx-large;
+    font-weight: 900;
+}
+.content3{
+    margin-left: 8rem ;
+    font-size: xx-large;
+}
+.content4{
+    margin-left: 8rem ;
+    font-size: xx-large;
+}
+.paragraph{
+margin-left: 8rem;
+font-size: larger;
+}
+.paragraph2{
+    margin-left: 8rem;
+    font-size: larger;
+
+}
+.free2{
+    background-color: blueviolet;
+    color: #fff;
+    font-size: large;
+    height: 50px;
+    width: 200px;
+    margin-left: 8rem;
+    margin-top: 3rem;
+}
+.free3{
+    color: blueviolet;
+    border: 2px solid violet;
+    height: 50px;
+    width: 200px;
+    font-size: large;
+    background-color: #fff;
+    margin-top: 3rem;
+}
+.end{
+    display: flex;
+    gap: 3rem;
+}
+.centre{
+    margin-left: 40rem;
+    
+}
+.logos{
+    display: flex;
+    gap: 6rem;
+    margin-top: 4rem;
+    align-items: center;
+    justify-content: center;
+}
